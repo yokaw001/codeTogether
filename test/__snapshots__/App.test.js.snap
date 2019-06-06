@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loads on startup App renders without any issues 1`] = `
+<div
+  className="barContainer"
+>
+  <Component />
+</div>
+`;
