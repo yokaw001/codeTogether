@@ -1,8 +1,8 @@
 # codeTogether
 
-Setup
-Run the following then open 'localhost:7000' in a Chrome browser.
+Setup<br />
+Run the following then open 'localhost:7000' in a Chrome browser.<br />
 
-npm install
-npm run build
-npm start
+npm install<br />
+npm run build<br />
+npm start<br />
